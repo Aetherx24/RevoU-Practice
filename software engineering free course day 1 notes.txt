@@ -1,0 +1,99 @@
+Leaning Objectives
+- Overview software
+- Software Development lifecycle 
+- Version Control System and repository
+- Developer Tools
+
+Overview software engineering 
+
+bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan, managemen organisasi pengembangan perangkat lunak 
+
+Common misconceptions 
+
+"Coding is just writing code, not so creative"
+"Communication is not important for programmers."
+"Testing is not so important than coding"
+"The fastest coder is the best programmer"
+"Too many bootcamps. Too many developers and software engineers. The job market must be small by now."
+
+tugas-tugas software engineer
+
+1. mendesain dan merawat sistem software
+2. testing dan evaluasi program software baru
+3. Mengoptimasi speed dan scalability software
+4. Menulis dan menguji kode pemrograman
+5. Memberikan konsultasi ke klien, sesama engineer, spesialis computer security dan stakeholder lainnya
+
+Technical Skill 
+1. Memahami tipe data, struktur, data, dan algoritma
+2. Menguasai bahasa pemrograman
+3. Memahami penggunaan dasar Operating System 
+4. Memahami database dan berbagai konsepnya 
+5. Memahami networking serta menguasai encryption dan authentication/authorization
+6. Mampu melakukan unit, integration, functional, dan end-to-end testing
+7. Memahami project/product management serta software development life cycle
+
+Soft Skill
+1. Komunikasi yang baik
+2. Mampu bekerja sama dengan orang lain
+3. Attention to detail dalam coding
+4. Memiliki proses logis dalam menyelesaikan masalah. 
+
+software engineering career path
+
+Technical track  
+1 engineer 1 
+2 engineer 2 
+3 engineer 3				Managerial track 
+4 staff engineer 		4 engineering manager  
+5 senior staff engineer		5 director of engineering 
+6 principal engineer 		6 vp of engineering 
+				7 CTO (chief technology officer)
+
+Understanding the tech stack of 
+Fullstack vs Frontend vs backend vs others 
+
+UI & UX Design 
+Frontend
+Backend & Database 
+Infra & DevOps 
+
+Frontend 
+
+merancang dan mendesign suatu website 
+paling depan untuk tampilan 
+
+Backend 
+
+Front-Eng Development
+
+Pengembangan kode yang menciptakan elemen visual dari perangkat lunak, aplikasi, atau situs web. Bahasa program front end development termasuk HTML, CSS, dan Javascript
+1. HTML (Hypertext Markup language) membantu menyusun struktur website 
+2. CSS (Cascading stlye sheets) membantu mendesain halaman website
+3. JS (Java Script) untuk menciptakan interaksi yang lebihb dinamis 
+
+Software Development Lifecycle 
+
+Proses pembuatan dan pengubahan sistem serta model dan metodologi yang digunakan untuk mengembangkan sistem rekayasa perangkat lunak 
+
+1. Planning & Analysis 
+2. Design 
+3. Implement (or Code)
+4. Testing & Integration 
+5. Deployment 
+6. Maintenance
+
+Version control system and repository
+
+sistem yang mencatat setiap perubahan sebuah file atau kumpulan file (kode)
+Contoh: Developer (Pengguna) dapat kembali ke salah satu versi dari berkas (kode) yang diinginkan saat terjadi masalah di kode yang terbaru
+
+Source code repository
+
+tempat menyimpan file proyek yang dapat berupa file source code, file gambar, text, dan file lainnya 
+
+1. Github
+2. Gitlab
+3. Bitbucket
+
+Developer Tools 
