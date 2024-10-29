@@ -87,6 +87,289 @@ Contoh element dari HTML
 <p> paragraph
 
 
+Cara Membuat Judul di HTML
+
+Tag heading merupakan tag yang disediakan oleh HTML untuk membuat sebuah judul pada teks dalam sebuah halaman web. Tag Heading secara default ditampilkan oleh browser dengan ukuran lebih besar dan lebih tebal (bold) dari text biasa 
+
+HTNL Text Formatting 
+
+melakukan pengaturan atau konfigurasi pada teks yang akan dijadikan isi dari sebuah halaman web 
+
+<hr>
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub>subscript</sub></p>
+
+<ul> unordered list 
+<li> items in the list 
+
+type= disc, 
+
+<ol> ordered list (with numbers)
+
+type=1/as/A/i/I
+
+<ol>
+<li>
+<ol></ol>	<------ list inside of list 
+</li>
+</ol>
+
+
+Create Table with HTML
+
+<table> 
+<tr> <--- table row 
+<th>Company</th> <---- table head 
+<th>Contact</th>
+<th>Country</th>
+</tr>
+<tr>
+<td> Alfreds Futterkiste </td> <---- table data
+<td> Maria Anders </td>
+<td> Germany </td
+</table>
+
+Table's Border
+
+use CSS:
+<Style>
+table, th, td {
+border: 1px solid black 
+}
+</style>
+
+<!DOCTYPE html>
+
+Column Span 
+<table>
+	<tr>
+		<th> 
+			Asal 
+				</th>
+		<th> 
+			Domisili 
+				</th>
+<td colspan="2">
+<center> Jakarta </center>
+</td>
+</tr>
+
+Row Span
+
+<th rowspan="2"> Jakarta </th>
+
+how to display Image 
+
+1. <img src="img/cat.png" alt="ini kucing">
+2. <img src="tiger.svg" alt="ini macan" width -"200" height="200">
+3. <img src=""
+
+absolute links and relative links 
+
+<p>
+<a href="https://www.google.com">
+Google
+</a>
+
+<a href=satu.html <-- relative link
+<a href="/index.html" <-- absolute link
+
+id links
+
+<a> 
+
+Create form with HTML 
+
+<form action="" method="post"?
+<label for="name">Nama</label>
+<input id="name" type="text">
+<br/>
+<input type="checkbox">
+<br>
+Minput type="radio">
+<br>
+<input type="number" min="1" max="10">
+<br> 
+<textarea rows="8" cols="64"> ketik disini</textarea>
+
+Button
+
+<button type="button">
+OK
+</button>
+<button type"button" onclick="dosomething()
+</button>
+
+Select forms 
+
+<p> apa warna favoritmu? </p>
+<select> 
+<option> merah</option>
+
+Option groups 
+
+<select>
+<optgroup label="jusbuah">
+
+Radio Button 
+
+Field Sets and Legends
+
+mengelompokkan bagian dari form ke kelompok yang lebih kecil 
+
+<fieldset> 
+<legend> Data Diri </legend> 
+
+<p>
+<label for="nama">
+
+Structuring Layout di HTML 
+
+HTML memiliki beberapa elemen semantic yang menentukan berbagai bagian halaman web:
+<header> mendefinisikan header untuk document atau section 
+<nav> mendifinisikan satu set link navigasi
+<section> mendefinisikan suatu konten artikel
+<aside> mendifinisikan bagian samping dari content (seperti sidebar)
+<footer>
+
+HTML Semantic Elements 
+
+1. Non Semantic Element (menceritakan apa-apa tentang isinya)
+<div>
+<span>
+
+2. Semantic element (mendefinisikan isinya dengan jelas)
+<form>
+<table>
+<article>
+
+menuliskan elemen HTML
+
+Perbedaan Semantic 
+
+differences in intonation 
+<b> something important 
+<strong> something more important 
+
+Division Tag 
+
+Division atau <div> adalah sebuah tag HTML yang berfungsi mendeskripsikan bagian atau divisi tertentu yang sifatnya fleksibel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+project:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
