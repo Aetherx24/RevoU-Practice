@@ -1,0 +1,123 @@
+website for coding in browser scrimba
+
+Lecture Session:
+
+- Overview HTML
+- HTML Tag Element 
+- Create table with HTML
+- Structuring layout with HTML 
+
+Create UI With HTML 
+
+Aditya Pradita
+
+Learning Objectives 
+- HTML Overview 
+- HTML Tag Element 
+- Create Form with HTML
+- Layouting on HTML with Table (Project: Calculator)
+
+
+HTML Overview
+
+- HTML untuk membuat kerangka rumah
+- CSS untuk menata layout rumah dan mempercantik rumah 
+- Javascript untuk menambah fungsionalitas rumah 
+
+HTML (Hyper Text Markup Language)
+
+Bahasa standar untuk membuat halaman web dimana menggambarkan struktur halaman web
+
+Element HTML di wakili dengan tag seperti:
+-Heading 
+-Paragraph
+-Table
+-Article
+-Division
+-Span
+-dan lainnya 
+ 
+Struktur code HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+HTML Tag Element 
+
+<!DOCTYPE html>
+
+tag ini muncul di bagian paling atas dari setiap dokumen HTML dan memberitahu browser bahwa file adalah HTML 5
+
+<head>
+
+tag head berisi informasi tentang halaman itu sendiri. Termasuk judul halaman yang anda lihat di atas, berisikan file eksternal apa pun seperti file CSS dan JavaScript, dan informasi meta tambahan.
+
+<body>
+
+tag body adalah tempat konten utama yang akan Anda lihat ditampilkan di layar anda berada. Anda perlu meletakkan apa pun yang anda inginkan untuk benar-benar dirender di antara tag body. Script just dapat dimasukkan ke dalam body. 
+
+Struktur component dari element tag HTML
+
+<h1 style="color:blue;">Hi!</h1>
+
+Element 
+
+<h1 style="color:blue;">Hi!</h1>
+
+Tag
+
+<h1>
+
+Attribute
+
+style 
+
+Attribute value
+
+"color: blue;"
+
+Contoh element dari HTML 
+
+<br> buat nambahin baris baru 
+<p> paragraph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
