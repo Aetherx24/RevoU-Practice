@@ -97,3 +97,47 @@ tempat menyimpan file proyek yang dapat berupa file source code, file gambar, te
 3. Bitbucket
 
 Developer Tools 
+
+1. Visual Studio Code 
+2. Google Chrome 
+3. Git
+4. Github Dekstop 
+
+Coding Time!
+
+1. Open Visual Studio Code 
+2. Create New File 
+3. Write Sample Code 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test</title>
+<body>
+<h1>Hello World!</h1>
+</body>
+</html>
+
+
+1. Install git tools 
+2. Jalankan COmmand Git Init di folder yang dituju
+
+git init 
+git add 
+git commit -m "first commit"
+
+how to create and push code to repository
+
+1. buat repository di akun github kamu
+2. jalankan command
+
+- git remote add origin https://<token>@github.com/<git_url>
+-ex: git remote add origin https://<token?@github.com/harfinovian/latihan_revou.git
+- git push origin master 
+
+
+Web engineering 
+
+1. Algorithm & data structure 
+2. React to JS
+3. Node JS 
