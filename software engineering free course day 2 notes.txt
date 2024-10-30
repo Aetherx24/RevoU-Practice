@@ -257,81 +257,42 @@ Division Tag
 Division atau <div> adalah sebuah tag HTML yang berfungsi mendeskripsikan bagian atau divisi tertentu yang sifatnya fleksibel
 
 
+<div> atas ke bawah 
+<span> ke samping 
 
+Main, Headers, and Footers 
 
+Articles & Sections 
 
+Lets practice 
 
+Next session: Design with CSS 
 
 
+project: membuat kalkulator sederhana 
 
+menggunakan table 
 
+6 rows
+4 col
 
+<table> 
+<tr>
+<th><input type="text" name="display"></th>
+<tr>
+<td> 
+<button>AC</button>
+</td>
+<td>C</td>
+<td>*</td>
+</tr>
+<tr>
+<tr>
+<tr>
+<tr>
+<tr>
+</table> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-project:
 
 
 
