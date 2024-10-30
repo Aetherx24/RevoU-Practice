@@ -1,0 +1,127 @@
+Fundamental course software engineering 
+
+Design with CSS
+
+Lecture session:
+Overview CSS
+Inline, Internal, and external css
+CSS attribute 
+CSS border 
+Slicing calculator & form with CSS 
+Flex & grid 
+CSS box model 
+
+CSS (Cascading Style Sheets)
+
+aturan untuk mengatur beberapa komponen dalam sebuah web sehingga akan lebih terstruktur dan seragam 
+
+CSS dapat mengontrol tata letak beberapa halaman web sekaligus 
+Stylesheet lebih baik disimpan di file CSS secara terpisah 
+
+Diibaratkan membuat website adalah membuat bangunan, CSS
+
+How to use CSS on HTML
+1. Inline <--- di apply duluan (prioritized)
+2. Internal (2nd priortized)
+3. External (3rd prioritized)
+
+Inline Styles 
+<!DOCTYPE html>
+<html> 
+<head> 
+<title> CSS Styles </title>
+</head>
+<body
+
+<!DOCTYPE html>
+<html> 
+<head> 
+<title> CSS Styles </title>
+<style>  <------------------------------internal
+h1 { color: blue;}
+</style>
+<link rel="stylesheet" href="index.css"> <--- external
+</head>
+<body>
+<h1 style="color: red;">Hello World</h1> <--- inline
+<body>
+</html>
+
+CSS Selector 
+digunakan untuk menemukan atau memilih elemen HTML yang ingin di styling
+
+. (dot) to select class 
+
+<p class="mobil">
+.mobil {}
+# to select ID
+<p class="mobil" ID="Avanza">
+#Avanza {}
+
+Attribute Selector 
+<style>
+a[target] {}<------ will target those that have "target" in them 
+a: hover
+<a href="..">asdas></a>
+<a href=".." target="_top">asdas</a>
+<a href=".." target="_blank">asdas</a>
+
+mozilla developer network or MDN <--- resources for coding 
+CSS Tricks 
+
+
+Color 
+
+rgb
+hexadecimal
+hsl
+rgba(0,0,255,0.782)
+hsla(360,100%,75%,0.5)
+
+Backgrounds color 
+//background 
+
+width: 100px
+height: 100px
+background: linear-gradient(blue, yellow);
+background: radial-gradient(blue, yellow);
+
+Background image 
+
+<style>
+body{
+background-color:
+background: url(
+background-position:
+background size
+
+Font and text 
+
+font-family: arial;
+font-style: italic;
+font-weight: bold;
+text-transform: uppercase
+text-decoration
+text-shadow
+line-height
+letter-spacing
+word-spacing
+text-align
+
+How to basic layouting HTML with CSS
+
+Display
+properti tampilan css yang mengatur apakah suatu elemen diperlakukan seperti block atau inline element dan tata letak yang digunakan untuk turunannya seperti flow kayour, grid atau flex. 
+
+Flex box 
+
+
+
+
+
+
+
+
+
+
+
