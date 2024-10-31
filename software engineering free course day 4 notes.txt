@@ -1,0 +1,21 @@
+recap lecture 
+
+Introduction of web engineering 
+Create UI with HTML 
+Design with CSS
+Intro to JS 
+
+Achmad Yama roni
+
+Recap lectures 
+Javascript introduction
+Client vs server 
+example js code 
+
+Software Engineer 
+1. mendesain dan merawat sister software 
+2. testing dan evaluasi program software baru
+3. mengoptimasi speed dan scalability software 
+4. menulis dan menguji kode pemrograman 
+5. memberikan konsultasi ke klien, sesama engineer, spesialis computer security, dan stakeholder lainnya. 
+
